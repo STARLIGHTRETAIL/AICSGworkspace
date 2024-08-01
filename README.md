@@ -8,8 +8,6 @@ The AI-Powered Customer Engagement Platform by Starlight Retail Inc. enhances cu
 
 - **Company Name:** Starlight Retail Inc.
 - **Website:** [https://starlightretail.ltd](https://starlightretail.ltd)
-- **Contact Email:** [mammon@starlightretail.ltd](mailto:mammon@starlightretail.ltd)
-
 ## Integration with Google Workspace
 
 ### Integration Points
